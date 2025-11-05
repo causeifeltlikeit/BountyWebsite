@@ -8,7 +8,6 @@ const QUEST_CATEGORIES = {
 };
 
 // List of quest files for each category
-// This is a fallback/catalog - you should update this when adding new quests
 const QUEST_FILES = {
   'free-bounty': [
     '01.json',
